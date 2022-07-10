@@ -9,5 +9,8 @@ Technologies:
 - clone the repo
 - find the index.html file
 - open the file with your favorite browser
-##Author
+- 
+## Author
 Name : Nelson
+github: https://github.com/MicroverseNelson/
+
